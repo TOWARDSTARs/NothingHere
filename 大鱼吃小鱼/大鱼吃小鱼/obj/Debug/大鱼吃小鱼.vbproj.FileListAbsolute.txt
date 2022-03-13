@@ -1,0 +1,30 @@
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\大鱼吃小鱼\大鱼吃小鱼\bin\Debug\WindowsApplication14.exe.config
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\大鱼吃小鱼\大鱼吃小鱼\obj\Debug\WindowsApplication14.exe
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\大鱼吃小鱼\大鱼吃小鱼\obj\Debug\WindowsApplication14.xml
+C:\Users\罗霄\Documents\Visual Studio 2013\Projects\大鱼吃小鱼\大鱼吃小鱼\obj\Debug\WindowsApplication14.pdb
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.exe.config
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.exe
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.pdb
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.xml
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\大鱼吃小鱼.vbproj.AssemblyReference.cache
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.Form1.resources
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.Resources.resources
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\大鱼吃小鱼.vbproj.GenerateResource.cache
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\大鱼吃小鱼.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.exe
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.xml
+C:\Users\PC\Documents\Tencent Files\342795279\FileRecv\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.pdb
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.exe.config
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.exe
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.xml
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.pdb
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.exe
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.pdb
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\bin\Debug\WindowsApplication14.xml
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.Form1.resources
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\obj\Debug\WindowsApplication14.Resources.resources
+C:\Users\罗霄\Desktop\大鱼吃小鱼(1)\obj\Debug\大鱼吃小鱼.vbproj.GenerateResource.Cache
